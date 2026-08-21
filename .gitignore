@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.vercel
+*.egg-info/
+dist/
+build/
+
+# archived previous site
+old/
+
+# raw CV sources (keep out of the public Pages repo)
+CV_2026_08_Gueroudji_Amal/
