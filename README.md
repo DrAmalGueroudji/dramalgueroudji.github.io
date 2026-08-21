@@ -1,4 +1,4 @@
-# amal.github.io
+# amal-gueroudji.github.io
 
 Personal academic website of **Amal Gueroudji** — Assistant Computer Scientist,
 Mathematics and Computer Science Division, Argonne National Laboratory.
@@ -72,10 +72,10 @@ git push
 
 GitHub Pages serves `main` from the repository root. Note that this repo is a
 *project* page, so the site lives at
-`https://DrAmalGueroudji.github.io/amal.github.io/`. All internal links are
-relative, so the subpath works — renaming the repo to
-`DrAmalGueroudji.github.io` would move it to the root URL without any content
-changes.
+`https://DrAmalGueroudji.github.io/amal-gueroudji.github.io/`. All internal
+links are relative, so the subpath works. Renaming the repository to
+`DrAmalGueroudji.github.io` — an exact match for the account name — would make
+it a user page served from the root URL, with no content changes needed.
 
 ## Previous version
 
